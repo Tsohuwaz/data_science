@@ -2,5 +2,5 @@
 
 # Projects
 
-* [Project 1. Game of Guessing Number](https://github.com/Tsohuwaz/data_science/blob/main/project_0)
+* [Project 0. Game of Guessing Number](https://github.com/Tsohuwaz/data_science/blob/main/project_0)
 
